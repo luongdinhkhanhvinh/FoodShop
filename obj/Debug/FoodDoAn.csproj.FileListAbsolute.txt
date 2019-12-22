@@ -1,0 +1,232 @@
+D:\MVC\FoodDoAn\FoodDoAn\bin\FoodDoAn.dll.config
+D:\MVC\FoodDoAn\FoodDoAn\bin\FoodDoAn.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\FoodDoAn.pdb
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\csc.exe
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\csc.exe.config
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\csc.rsp
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\csi.exe
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\csi.exe.config
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\csi.rsp
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.AppContext.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Console.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.IO.Compression.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Net.Http.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Net.Sockets.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.ValueTuple.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Xml.XPath.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\vbc.exe
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\vbc.exe.config
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\vbc.rsp
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\VBCSCompiler.exe
+D:\MVC\FoodDoAn\FoodDoAn\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC\FoodDoAn\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC\FoodDoAn\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC\FoodDoAn\FoodDoAn\obj\Debug\FoodDoAn.csprojAssemblyReference.cache
+D:\MVC\FoodDoAn\FoodDoAn\obj\Debug\FoodDoAn.csproj.CopyComplete
+D:\MVC\FoodDoAn\FoodDoAn\obj\Debug\FoodDoAn.dll
+D:\MVC\FoodDoAn\FoodDoAn\obj\Debug\FoodDoAn.pdb
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\FoodDoAn.dll.config
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\FoodDoAn.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\FoodDoAn.pdb
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\csc.exe
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\csc.exe.config
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\csc.rsp
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\csi.exe
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\csi.exe.config
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\csi.rsp
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.AppContext.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Collections.Immutable.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Console.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Globalization.Calendars.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.IO.Compression.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.IO.FileSystem.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Net.Http.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Net.Sockets.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Reflection.Metadata.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.ValueTuple.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XPath.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\vbc.exe
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\vbc.exe.config
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\vbc.rsp
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\VBCSCompiler.exe
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\roslyn\VBCSCompiler.exe.config
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LT ASPX\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.csprojAssemblyReference.cache
+D:\LT ASPX\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.csproj.CopyComplete
+D:\LT ASPX\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.dll
+D:\LT ASPX\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.pdb
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\FoodDoAn.dll.config
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\FoodDoAn.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\FoodDoAn.pdb
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csc.exe
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csc.exe.config
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csc.rsp
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csi.exe
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csi.exe.config
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csi.rsp
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.AppContext.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Console.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Net.Http.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\vbc.exe
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\vbc.exe.config
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\vbc.rsp
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.csprojAssemblyReference.cache
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.csproj.CopyComplete
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.dll
+C:\Users\NGUYEN HUY DUNG\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.pdb
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\FoodDoAn.dll.config
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\FoodDoAn.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\FoodDoAn.pdb
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csc.exe
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csc.exe.config
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csc.rsp
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csi.exe
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csi.exe.config
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\csi.rsp
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.AppContext.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Console.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Net.Http.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\vbc.exe
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\vbc.exe.config
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\vbc.rsp
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.csprojAssemblyReference.cache
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.csproj.CopyComplete
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.dll
+C:\Users\nhd08\Documents\GitHub\FoodDoan_ASP.net\Do an ASP\FoodDoAn\obj\Debug\FoodDoAn.pdb
